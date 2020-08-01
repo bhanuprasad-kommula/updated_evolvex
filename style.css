@@ -144,7 +144,7 @@ nav a:hover {
 	width:100%;
 	min-height:70vh;
 	position:absolute;
-	top:450px;
+	top:480px;
 	display:flex;
 	justify-content:center;
 	align-items:center;
@@ -249,7 +249,7 @@ nav a:hover {
   perspective: 2000px;
   width:100%;
   position:absolute;
-  top:2070px;
+  top:2105px;
 }
 
 article {
@@ -364,7 +364,7 @@ article div p:before {
 	 left: 0;
 	 margin: 1em;
 	 position:absolute;
-	 top:2980px;
+	 top:3005px;
 	 left:20px;
 	 background:#221f3b;
 	 padding:10px;
@@ -401,7 +401,7 @@ article div p:before {
  .message_container {
 	 filter: drop-shadow(0 0 8px cyan);
 	 position:relative;
-	 top:3050px;
+	 top:3075px;
 	 left:0px;
 }
  .message_container .message {
@@ -481,7 +481,7 @@ article div p:before {
 	 left: 0;
 	 margin: 1em;
 	 position:absolute;
-	 top:3070px;
+	 top:3085px;
 	 left:60px;
 	 background:#221f3b;
 	 padding:10px;
@@ -518,7 +518,7 @@ article div p:before {
  .message_container1 {
 	 filter: drop-shadow(0 0 8px cyan);
 	 position:relative;
-	 top:3147px;
+	 top:3160px;
 	 left:0px;
 }
  .message_container1 .message1 {
