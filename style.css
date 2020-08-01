@@ -249,7 +249,7 @@ nav a:hover {
   perspective: 2000px;
   width:100%;
   position:absolute;
-  top:2105px;
+  top:2135px;
 }
 
 article {
@@ -364,7 +364,7 @@ article div p:before {
 	 left: 0;
 	 margin: 1em;
 	 position:absolute;
-	 top:3005px;
+	 top:3035px;
 	 left:20px;
 	 background:#221f3b;
 	 padding:10px;
@@ -401,7 +401,7 @@ article div p:before {
  .message_container {
 	 filter: drop-shadow(0 0 8px cyan);
 	 position:relative;
-	 top:3075px;
+	 top:3105px;
 	 left:0px;
 }
  .message_container .message {
@@ -481,7 +481,7 @@ article div p:before {
 	 left: 0;
 	 margin: 1em;
 	 position:absolute;
-	 top:3085px;
+	 top:3115px;
 	 left:60px;
 	 background:#221f3b;
 	 padding:10px;
@@ -518,7 +518,7 @@ article div p:before {
  .message_container1 {
 	 filter: drop-shadow(0 0 8px cyan);
 	 position:relative;
-	 top:3160px;
+	 top:3190px;
 	 left:0px;
 }
  .message_container1 .message1 {
